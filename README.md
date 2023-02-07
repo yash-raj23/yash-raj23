@@ -1,4 +1,4 @@
-![logo](https://github.com/yash-raj23/yash-raj23/blob/main/gitlogo.gif)
+![logo](https://github.com/yash-raj23/yash-raj23/blob/main/dd50b6932dfd6ff35c020c63f7e1213f.gif)
 <h1 align="center">Hi 👋, I'm Yash Raj Ghosh</h1>
 <h3 align="center">A passionate Robotics and IOT engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
