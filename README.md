@@ -1,4 +1,4 @@
-[![MasterHead](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Banner_360.gif)]
+![logo](https://github.com/yash-raj23/yash-raj23/blob/main/gitlogo.gif)
 <h1 align="center">Hi 👋, I'm Yash Raj Ghosh</h1>
 <h3 align="center">A passionate Robotics and IOT engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
